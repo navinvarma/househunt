@@ -11,6 +11,9 @@ A ShinyR app for analyzing recently sold data from Redfin.com to find comparable
 ## Use App
 Once published, click on any row in the table. This will redirect you to the "Comparables" tab to find similar houses and you can get the average price among all the comparables found. 
 
+Example
+![Preview of househunt app](/HouseHunt_Preview.png)
+
 ## Run App
 * Open househunt.Rproj in RStudio
 * ui -> this is the tabs rendered on the page
